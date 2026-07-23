@@ -150,7 +150,7 @@
             key-positions = <30 31>;
         };
 
-        act-wndw-pscrn {
+        ACT-WIN-PSCEN {
             bindings = <&kt LA(LG(PRINTSCREEN))>;
             key-positions = <34 37>;
         };
