@@ -149,6 +149,11 @@
             bindings = <&kp LWIN>;
             key-positions = <30 31>;
         };
+
+        act-wndw-pscrn {
+            bindings = <&kt LA(LG(PRINTSCREEN))>;
+            key-positions = <34 37>;
+        };
     };
 
     macros {
